@@ -9,6 +9,7 @@
     "axios": "^1.4.0",
     "babel-preset-react-app": "^10.0.1",
     "classnames": "^2.3.2",
+    "express": "^4.18.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.1.1",
@@ -43,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.195",
     "redux-devtools-extension": "^2.13.9"
   }
 }
